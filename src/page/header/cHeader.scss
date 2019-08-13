@@ -1,0 +1,11 @@
+.content{
+    color: purple;
+}
+.aa{
+    color: pink;
+    font-size: 30px;
+}
+:global(.tt){
+    color: gold;
+    font-size: 40px;
+}
